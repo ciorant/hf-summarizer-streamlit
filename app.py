@@ -18,9 +18,9 @@ def load_summarizer():
 summarizer = load_summarizer()
 
 # --- Streamlit App ---
-st.title("Text Summarizer with Cleanup ✨")
+st.title("Text Summarizer")
 
-user_input = st.text_area("Paste text to summarize:")
+user_input = st.text_area("Paste news article in English to summarize:")
 
 if st.button("Summarize"):
     if user_input.strip():
