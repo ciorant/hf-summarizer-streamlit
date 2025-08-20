@@ -18,7 +18,7 @@ def load_summarizer():
 summarizer = load_summarizer()
 
 # --- Streamlit App ---
-st.title("Text Summarizer")
+st.title("News Summarizer 😎")
 
 user_input = st.text_area("Paste news article in English to summarize:")
 
