@@ -289,4 +289,4 @@ st.markdown(
         <p><small>Tip: Use the sidebar controls to customize your summaries!</small></p>
     </div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True)
