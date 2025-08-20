@@ -256,7 +256,7 @@ if summarize_button and user_input.strip():
                 margin: 20px 0;
             ">
                 <h4 style="color: #1e40af; margin-bottom: 15px;">📄 Generated Summary</h4>
-                <p style="font-size: 16px; line-height: 1.6; margin: 0;">{final_summary}</p>
+                <p style="font-size: 16px; line-height: 1.6; margin: 0; color: #1f2937;">{final_summary}</p>
             </div>
             """, unsafe_allow_html=True)
             
