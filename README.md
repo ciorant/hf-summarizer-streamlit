@@ -54,6 +54,7 @@ hf-news-summarizer/
 ├── streamlit_app/          - Streamlit app folder   
 │   ├── app.py              - Streamlit interface   
 │   └── requirements.txt    - app dependencies   
+├── .devcontainer/          - configuration for VS Code Dev Containers / GitHub Codespaces   
 └── README.md               - this file   
 
 ### Data Preprocessing
