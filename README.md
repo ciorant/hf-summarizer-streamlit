@@ -18,8 +18,8 @@ This project demonstrates a complete ML workflow from data preprocessing to mode
 ## Live Demo
 
 Try the model yourself:
-- **Web App**: [Streamlit Demo](your-streamlit-app-url)
-- **API**: [Hugging Face Model](https://huggingface.co/your-username/your-model)
+- **Web App**: [Streamlit Demo](https://english-news-summarizer.streamlit.app)
+- **API**: [Hugging Face Model](https://huggingface.co/ciorant/news-summarizer)
 
 ## 📊 Model Performance
 
