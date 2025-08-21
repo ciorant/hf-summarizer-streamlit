@@ -29,7 +29,7 @@ def estimate_reading_time(text: str) -> int:
 @st.cache_resource
 def load_model_and_tokenizer():
     """Load model with optimizations for speed"""
-    model_name = "facebook/bart-large-cnn"  # Replace with your model
+    model_name = "ciorant/news-summarizer"  
     
     # Load with optimizations
     model = AutoModelForSeq2SeqLM.from_pretrained(
