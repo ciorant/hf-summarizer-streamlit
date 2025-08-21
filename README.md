@@ -48,12 +48,12 @@ Try the model yourself:
 - ✅ **Advanced generation controls** (beam search, sampling, penalties)
 
 ### Project structure
-📁 hf-news-summarizer/
-├── 📓 news-summarizer.ipynb          # Complete training pipeline
-├── 📱 streamlit_app/
-│   ├── app.py                          # Streamlit web interface
-│   └── requirements.txt                # App dependencies
-└── 📖 README.md                        # This file
+📁 hf-news-summarizer/  
+├── 📓 news-summarizer.ipynb          # Complete training pipeline  
+├── 📱 streamlit_app/  
+│   ├── app.py                          # Streamlit web interface  
+│   └── requirements.txt                # App dependencies  
+└── 📖 README.md                        # This file  
 
 ### Data Preprocessing
 
