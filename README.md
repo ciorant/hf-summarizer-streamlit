@@ -1,4 +1,4 @@
-# 📰 AI News Summarizer - End-to-End ML Project
+# AI News Summarizer - End-to-End ML Project
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://english-news-summarizer.streamlit.app)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/ciorant/news-summarizer)
@@ -21,7 +21,7 @@ Try the model yourself:
 - **Web App**: [Streamlit Demo](https://english-news-summarizer.streamlit.app)
 - **API**: [Hugging Face Model](https://huggingface.co/ciorant/news-summarizer)
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric | Score |
 |--------|-------|
@@ -41,11 +41,11 @@ Try the model yourself:
 - **Training**: Seq2SeqTrainer with custom metrics
 
 ### Key Features
-- ✅ **Robust error handling** for tokenization overflow issues
-- ✅ **Custom ROUGE metrics** with fallback mechanisms  
-- ✅ **Checkpoint resuming** from Google Drive
-- ✅ **Memory optimization** for Colab (FP16, gradient accumulation)
-- ✅ **Advanced generation controls** (beam search, sampling, penalties)
+- **Robust error handling** for tokenization overflow issues
+- **Custom ROUGE metrics** with fallback mechanisms  
+- **Checkpoint resuming** from Google Drive
+- **Memory optimization** for Colab (FP16, gradient accumulation)
+- **Advanced generation controls** (beam search, sampling, penalties)
 
 ### Project structure
 
